@@ -1,0 +1,18 @@
+type Chapter {
+    _id: String!
+    name: String!
+    collection: Collection!
+    phrases: [Phrase!]
+}
+
+input ChapterInput {
+    name: String!
+}
+
+type Query {
+    chapters: [Chapter!]
+}
+
+type Mutation {
+    createChapter(input: ChapterInput!): Chapter
+}

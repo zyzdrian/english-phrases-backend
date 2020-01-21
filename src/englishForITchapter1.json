@@ -1,0 +1,715 @@
+[
+  {
+    "name": "dokładny/precyzyjny/trafny",
+    "nameLang": "pl",
+    "meanings": "accurate",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "alokować zasoby",
+    "nameLang": "pl",
+    "meanings": "to allocate resources",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "odnosić się (do czegoś) / dotyczyć (czegoś) / mieć zastosowanie (do czegoś)",
+    "nameLang": "pl",
+    "meanings": "to apply to something",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "aktywa",
+    "nameLang": "pl",
+    "meanings": "assets",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "od razu / natychmiast",
+    "nameLang": "pl",
+    "meanings": "at once",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "korzystny/dobroczynny",
+    "nameLang": "pl",
+    "meanings": "beneficial",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "zwiększać efektywność",
+    "nameLang": "pl",
+    "meanings": "to boost effectiveness",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "marka",
+    "nameLang": "pl",
+    "meanings": "brand",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "cel biznesowy",
+    "nameLang": "pl",
+    "meanings": "business goal",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "przechwytywać / zdobywać",
+    "nameLang": "pl",
+    "meanings": "to capture",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "wyzwanie",
+    "nameLang": "pl",
+    "meanings": "challenge",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "przewaga konkurencyjna",
+    "nameLang": "pl",
+    "meanings": "competitive advantage",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "ukończenie / zakończenie",
+    "nameLang": "pl",
+    "meanings": "completion",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "pełny wgląd w czasie rzeczywistym",
+    "nameLang": "pl",
+    "meanings": "comprehensive real-time view",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "prowadzenie biznesu",
+    "nameLang": "pl",
+    "meanings": "conduct of business",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "ciągle rozwijać się / ewoluować",
+    "nameLang": "pl",
+    "meanings": "to continuously evolve",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "analiza kosztów i korzyści",
+    "nameLang": "pl",
+    "meanings": "cost-benefit analysis",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "kluczowy czynnik sukcesu",
+    "nameLang": "pl",
+    "meanings": "critical success factor",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "istotny",
+    "nameLang": "pl",
+    "meanings": "crucial",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "obecnie",
+    "nameLang": "pl",
+    "meanings": "currently",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "dostosowywać do potrzeb",
+    "nameLang": "pl",
+    "meanings": "to customize",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "codziennie działania/funkcjonowanie",
+    "nameLang": "pl",
+    "meanings": "day-to-day operations",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "system wspomagania decyzji",
+    "nameLang": "pl",
+    "meanings": "decision support system (DSS)",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "proces podejmowania decyzji",
+    "nameLang": "pl",
+    "meanings": "decision-making process",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "podejście defensywne",
+    "nameLang": "pl",
+    "meanings": "defensive approach",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "metoda delficka",
+    "nameLang": "pl",
+    "meanings": "Delphi method",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "urządzenie",
+    "nameLang": "pl",
+    "meanings": "device",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "na przykład",
+    "nameLang": "pl",
+    "meanings": "e.g. (lat. exampli gratia)",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "efektywny/skuteczny",
+    "nameLang": "pl",
+    "meanings": "effective",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "efektywne/skuteczne zarządzanie",
+    "nameLang": "pl",
+    "meanings": "effective management",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "wydajny/sprawny/efektywny",
+    "nameLang": "pl",
+    "meanings": "efficient",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "umożliwiać",
+    "nameLang": "pl",
+    "meanings": "to enable",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "poprawa/zwiększanie",
+    "nameLang": "pl",
+    "meanings": "enhancement",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "planowanie zasobów przedsiębiorstwa",
+    "nameLang": "pl",
+    "meanings": "enterprise resource planning (ERP)",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "szacować",
+    "nameLang": "pl",
+    "meanings": "to evaluate",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "rozwijać się / ewoluować",
+    "nameLang": "pl",
+    "meanings": "to evolve",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "wymieniać",
+    "nameLang": "pl",
+    "meanings": "to exchange",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "system informowania kierownictwa",
+    "nameLang": "pl",
+    "meanings": "executive information system (EIS)",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },
+  {
+    "name": "",
+    "nameLang": "pl",
+    "meanings": "",
+    "meaningsLang": "en",
+    "isReversible": true
+  },{
+  "name": "",
+  "nameLang": "pl",
+  "meanings": "",
+  "meaningsLang": "en",
+  "isReversible": true
+}
+]

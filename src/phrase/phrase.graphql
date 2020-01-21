@@ -1,0 +1,22 @@
+type Phrase {
+    _id: String!
+    names: [String!]
+    meanings: [String!]
+    chapter: Chapter
+    collection: Collection!
+}
+
+input PhraseInput {
+    names: [String!]
+    meanings: [String!]
+    chapterId: String!
+    collectionId: String!
+}
+
+type Query {
+    phrases: [Phrase!]
+}
+
+type Mutation {
+    createPhrase(input: PhraseInput!): Phrase
+}

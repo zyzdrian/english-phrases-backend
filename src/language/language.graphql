@@ -1,0 +1,20 @@
+type Language {
+    _id: String!
+    name: String!
+    shortName: String
+    imageUrl: String
+}
+
+input LanguageInput {
+    name: String!
+    shortName: String
+    imageUrl: String
+}
+
+type Query {
+    languages: [Language!]
+}
+
+type Mutation {
+    createLanguage(input: LanguageInput!): Language
+}

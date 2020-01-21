@@ -1,0 +1,23 @@
+type Collection {
+    _id: String!
+    name: String!
+    namesLanguage: Language!
+    meaningsLanguage: Language!
+    phrases: [Phrase!]
+    chapters: [Chapter!]
+}
+
+input CollectionInput {
+    name: String!
+    namesLanguageId: String!
+    meaningsLanguageId: String!
+    chapters: [String!]
+}
+
+type Query {
+    collections: [Collection!]
+}
+
+type Mutation {
+    createCollection(input: CollectionInput!): Collection
+}
